@@ -1,7 +1,7 @@
 public class main {
 	public static void main(String[] args) {
-		String[] arr = {"Hamed","Saif","Hilal","Mohammed"};
-		System.out.println("Please enter Username");
+		String[] arr = {"Hamed","Saif","Hilal","Mohammed","Maryam","sarah"};
+		System.out.println("Please enter Username below");
 		String UserName = System.in.toString();
 		System.out.println("Please enter Password");
 		String Password = System.in.toString();
